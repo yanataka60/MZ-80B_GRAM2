@@ -31,7 +31,7 @@
 ![MZ80B_GRAM2_01](https://github.com/yanataka60/MZ-80B_GRAM2/blob/main/JPEG/MZ80B_GRAM2_01.jpg)
 
 ## 取付方法
-拡張I/Oユニットの1又は4にGRAM2ボードを挿し込みます。
+拡張I/Oユニットの1番スロット又は4番スロットにGRAM2ボードを挿し込みます。
 
 GRAM1ボードのJ3とGRAM2ボードのJ6を2x5Pinケーブルで接続します。
 
