@@ -4,6 +4,12 @@
 
 　本体への装着方法は純正品と同じです。
 
+## 回路図
+　KiCadフォルダ内のMZ-80B_GRAM2.pdf参照
+
+[回路図](https://github.com/yanataka60/MZ-80B_GRAM2/blob/main/Kicad/MZ-80B_GRAM2.pdf)
+![回路図](https://github.com/yanataka60/MZ-80B_GRAM2/blob/main/Kicad/MZ-80B_GRAM2_1.jpg)
+
 ## 部品表
 |番号|品名|数量|備考|
 | ------------ | ------------ | ------------ | ------------ |
@@ -36,3 +42,6 @@
 GRAM1ボードのJ3とGRAM2ボードのJ6を2x5Pinケーブルで接続します。
 
 ![MZ80B_GRAM2_02](https://github.com/yanataka60/MZ-80B_GRAM2/blob/main/JPEG/MZ80B_GRAM2_02.jpg)
+
+## 追記
+2025.10.10 回路図のpdfファイルを追加した。
